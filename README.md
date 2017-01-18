@@ -1,3 +1,5 @@
-# My Awesome Book
+# Tidbits by Chujian Xiao'er
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Hello, everyone!
+I am Chujian Xiao'er. Welcome to read my tidbits.
+*Have fun!*
