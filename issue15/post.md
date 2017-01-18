@@ -1,7 +1,9 @@
-## Tidbits by Chujian Xiao'er (15)
+# Tidbits by Chujian Xiao'er (15)
 
-### Joke
-
-
+## Joke
 
 ![](iphone_joke.jpg)
+
+---
+
+## 小二分享
