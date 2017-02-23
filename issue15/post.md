@@ -8,13 +8,13 @@
 
 小二简单地介绍一下选项中的5位大咖，他们分别是：
 
-```
-A. Laryy Ellison, co-founder and CTO of Oracle
-B. Steve Ballmer, former CEO of Microsoft
-C. Jeff Bezos, founder and CEO of Amazon
-D. Sergey Brin, co-founder of Google
-E. Shin Jong-Kyun, president and CEO of Samsung
-```
+
++ A. Laryy Ellison, co-founder and CTO of Oracle  
++ B. Steve Ballmer, former CEO of Microsoft  
++ C. Jeff Bezos, founder and CEO of Amazon
++ D. Sergey Brin, co-founder of Google
++ E. Shin Jong-Kyun, president and CEO of Samsung
+
 
 揭晓答案的时刻到了：请在旋转锁定的状态下，将手机旋转180度，查看图片。
 
@@ -80,9 +80,9 @@ So easy, 对不对？了解了以上这三条基本规则，我们就可以从�
 ### Quiz Time
 请大家识别以下的罗马数字：
 ```
-1. MMCMXXXIX = 2939?
-2. MMMCMLXXVII = 3977?
-3. MMMDCCLXXIIV = 3773?
+1. MMCMXXXIX = ?
+2. MMMCMLXXVII = ?
+3. MMMDCCLXXIIV = ?
 ```
 <br/>
 <br/>
