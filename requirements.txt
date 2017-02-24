@@ -1,0 +1,7 @@
+cssselect==1.0.1
+cssutils==1.0.1
+docopt==0.6.2
+lxml==3.7.3
+Markdown==2.6.8
+markdown-css==0.0.6
+pyquery==1.2.17

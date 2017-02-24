@@ -14,3 +14,7 @@ _book
 *.epub
 *.mobi
 *.pdf
+
+venv
+*.html
+.DS_Store
