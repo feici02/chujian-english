@@ -1,19 +1,19 @@
 body {
-  color:#3e3e3e;
-  font-size: 16px;
-  font-family: "Helvetica Neue",Helvetica,"Hiragino Sans GB","Microsoft YaHei",Arial,sans-serif;
+    color: #3e3e3e;
+    font-size: 16px;
+    font-family: "Helvetica Neue", Helvetica, "Hiragino Sans GB", "Microsoft YaHei", Arial, sans-serif;
 }
 
-p{
-  letter-spacing: 0.1em !important;
-  line-height: 1.7 !important;
-  min-height: 1em !important;
-  box-sizing: border-box !important;
-  word-wrap: break-word !important;
-  text-align: justify;
-  color: #3e3e3e;
-  margin: 20px 0 !important;
-  margin: 1.5em 5px !important;
+p {
+    letter-spacing: 0.1em !important;
+    line-height: 1.7 !important;
+    min-height: 1em !important;
+    box-sizing: border-box !important;
+    word-wrap: break-word !important;
+    text-align: justify;
+    color: #3e3e3e;
+    margin: 20px 0 !important;
+    margin: 1.5em 5px !important;
 }
 
 blockquote {
@@ -25,8 +25,8 @@ blockquote {
 }
 
 blockquote p {
-  color: #898989;
-  margin: 0px;
+    color: #898989;
+    margin: 0px;
 }
 
 strong {
@@ -34,21 +34,21 @@ strong {
 }
 
 pre {
-  background-color: #f8f8f8;
-  border-radius: 3px;
-  word-wrap: break-word;
-  padding: 12px 13px;
-  font-size: 13px;
-  color: #898989;
+    background-color: #f8f8f8;
+    border-radius: 3px;
+    word-wrap: break-word;
+    padding: 12px 13px;
+    font-size: 13px;
+    color: #898989;
 }
 
-h1,h2,h3,h4,h5,h6 {
+h1, h2, h3, h4, h5, h6 {
     font-weight: bold !important;
     color: #007979 !important;
-    text-align: left; !important;
+    text-align: left;
+    !important;
     margin: 1.5em 5px !important;
-    padding: 0.5em 0em !important;
-    // border-bottom: 1px solid rgb(238, 238, 238) !important;
+    padding: 0.5em 0em !important; // border-bottom: 1px solid rgb(238, 238, 238) !important;
 }
 
 h1 {
@@ -64,29 +64,30 @@ h3 {
 }
 
 h4 {
-    font-size:  18px !important;
+    font-size: 18px !important;
 }
 
 h5 {
-  font-size:  16px !important;
+    font-size: 16px !important;
 }
 
 a {
-  color: #607fa6 !important;
-  text-decoration: none !important;
+    color: #607fa6 !important;
+    text-decoration: none !important;
 }
 
 ul, ol {
-  padding-left: 30px !important;
+    padding-left: 30px !important;
 }
 
 ul li {
-  color: #898989 !important;
+    // color: #898989 !important;
 }
 
 li {
-  line-height: 24px !important;
-  margin-bottom: 5px !important;
+    line-height: 24px !important;
+    margin-bottom: 5px !important;
+    font-size: 16px;
 }
 
 hr {
@@ -95,14 +96,14 @@ hr {
 }
 
 pre {
- background: #f2f2f2 !important;
- padding: 12px 13px;
+    background: #f2f2f2 !important;
+    padding: 12px 13px;
 }
 
 table {
-  padding: 0;
-  border-collapse: collapse;
-  border-spacing: 0;
+    padding: 0;
+    border-collapse: collapse;
+    border-spacing: 0;
 }
 
 table tr {
@@ -119,6 +120,7 @@ table tr th {
     margin: 0;
     padding: 6px 13px;
 }
+
 table tr td {
     border: 1px solid #cccccc;
     text-align: left;
