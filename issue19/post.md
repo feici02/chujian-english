@@ -50,6 +50,7 @@ A bed and breakfast (typically shortened to B&B) is a small lodging establishmen
 a place for storing goods or motor vehicles
 
 在美国，有两家公司的名字中都用了这个词：
+
 * Home Depot
 * Office Depot
 
